@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "lucide-react": "^0.559.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.7",
+    "autoprefixer": "^10.4.22",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.17"
+  },
+  "name": "cvproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasoon42/CVproj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prasoon42/CVproj/issues"
+  },
+  "homepage": "https://github.com/prasoon42/CVproj#readme"
+}
